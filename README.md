@@ -1,7 +1,7 @@
 # Optimization-of-Agricultural-Production-Engine
 Project for 5th semester (Machine Learning Using Python).
 
-This Project  is Developed by SADASHISH KUMAR BHOKTA
+This Project  is Developed by SADASHISH KUMAR BHOKTA and VAISHNAVI BHUSHAN
 
 # Description
 
